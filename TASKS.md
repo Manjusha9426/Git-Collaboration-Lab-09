@@ -1,6 +1,4 @@
 Task List:
 
-\- Setup collaboration lab
-
-
+\- Setup Git collaboration workflow and branching
 
