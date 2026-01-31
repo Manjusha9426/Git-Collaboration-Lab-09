@@ -1,4 +1,4 @@
 Task List:
 
-\- Setup Git collaboration workflow and branching
+\- Setup Git collaboration workflow
 
