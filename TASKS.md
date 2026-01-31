@@ -1,4 +1,4 @@
 Task List:
 
-\- Setup Git collaboration workflow
+\- Setup Git collaboration workflow and DevOps lab
 
