@@ -1,6 +1,6 @@
 Task List:
 
-\- Initialize DevOps Git lab setup
+\- Setup collaboration lab
 
 
 
